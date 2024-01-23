@@ -1,0 +1,13 @@
+{
+  "name": "@codeeasy/autotailwindcss",
+  "version": "1.0.2",
+  "description": "A package to configure Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "configure-tailwind": "node configure-tailwind.js"
+  },
+  "keywords": ["tailwindcss"],
+  "author": "Your Actual Name",
+  "license": "MIT"
+}
