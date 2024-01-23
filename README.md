@@ -16,6 +16,11 @@ const app = require('sleekifycss');
 app();
 ```
 
+## Demo Video
+https://github.com/Arshdeep-13/SleekifyCss/assets/108752646/86f9e0a5-a62e-4db4-b147-024e41f4d22b
+
+
+
 ## Features
 Streamlined setup for Tailwind CSS and Material-UI.
 Simplifies the process of configuring and installing styling frameworks.
