@@ -1,7 +1,5 @@
 # sleekifycss
 
-## Description
-
 **sleekifycss** is a custom npm package that simplifies the process of setting up a project with Tailwind CSS and Material-UI. It automates the installation of these popular styling frameworks, allowing you to quickly start building sleek and responsive user interfaces.
 
 ## Installation
@@ -12,7 +10,7 @@ To use **sleekifycss** in your project, you can install it via npm. Open your te
 npm install sleekifycss
 ```
 
-then create new Javascript file (let say app.js)
+then create new Javascript file (let say app.js), add below command to run app.js
 ```bash
 const app = require('sleekifycss');
 app();
